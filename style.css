@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import "index.css";
+
+body{
+    font-family: 'Special Elite', cursive;
+    color: white;
+    margin: 0;
+    padding: 20px ;
+}
+#ul-el{
+color: #000;
+}

@@ -1,0 +1,32 @@
+#input-el{
+width: 100%;
+box-sizing: border-box;
+padding: 8px 13px;
+border: solid 3px  #5f9341;
+outline: none;
+background-color: whitesmoke;
+transition: all 0.5s ease-in-out;
+border-radius: 0px;
+}
+#input-el:focus{
+background-color: #abc1d1;
+border-radius: 7px;
+}
+#input-btn{
+    margin-top: 5px;
+    width: 20%;
+    height: 50px;
+    box-sizing: border-box;
+    border: none;
+    font-weight: bold;
+    color: white;
+    border-radius: 0px;
+    background-color: #5f9341;
+    box-shadow: 0px 5px 5px #000000;
+    transition: all 0.5s ease-in-out;
+}
+#input-btn:hover{
+    transform: translateY(5px);
+    box-shadow: 0px 0px 0px #000000;
+    border-radius: 5px;
+}
